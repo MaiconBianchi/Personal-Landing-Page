@@ -1,0 +1,30 @@
+/*Desenvolver Layout atrativo com toque da minha personalidade*/
+
+/*body*/
+.background {
+    background-color: rgb(243, 227, 207);
+}
+
+/*header*/
+.language-switch {
+    text-align: right;
+    color: black;
+}
+.menu {
+    text-align: right;
+    color: black;
+}
+
+/*section - Sobre mim*/
+.boas-vindas {
+    text-align: center;
+    color:rgb(54, 43, 23);
+    background-color: burlywood;
+}
+
+/*section - Formação e cargo*/
+.maiconbianchi {
+    text-align: left;
+    color:rgb(54, 43, 23);
+    background-color: burlywood;
+}
